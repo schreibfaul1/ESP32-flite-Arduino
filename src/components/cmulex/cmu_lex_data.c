@@ -2,6 +2,6 @@
 /**  generated lexicon data file from cmu    */
 /*******************************************************/
 
-#include "cmu_lex_data_raw.c"
+#include "cmu_lex_data_raw.h"
 
 

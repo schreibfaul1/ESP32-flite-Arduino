@@ -77,6 +77,7 @@ extern "C" {
 
 /* Public functions */
 int flite_init();
+cst_voice *register_cmu_us_kal(const char *voxdir);
 
 /* General top level functions */
 cst_voice *flite_voice_select(const char *name);
