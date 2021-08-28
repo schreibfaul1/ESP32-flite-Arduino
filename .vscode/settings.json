@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "cst_regex.h": "c",
+        "cst_tokenstream.h": "c",
+        "flite.h": "c",
+        "cst_alloc.h": "c",
+        "cst_clunits.h": "c",
+        "cst_cg.h": "c"
+    }
+}

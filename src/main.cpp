@@ -1,7 +1,8 @@
 #include <Arduino.h>
+#include "flite.h"
 
 void setup() {
-  // put your setup code here, to run once:
+  flite_init();
 }
 
 void loop() {
